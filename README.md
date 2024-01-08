@@ -3,10 +3,17 @@
 
 Ballot    
 
-   Voter 1    Voter 2     Voter 3     Voter 4     Voter 5     Voter 6     Voter 7     Voter 8     Voter 9
-1. Alice    | Alice     | Bob       | Bob       | Bob       | Charlie   | Charlie   | Charlie   | Charlie
-2. Bob      | Bob       | Alice     | Alice     | Alice     | Alice     | Alice     | Bob       | Bob
-3. Charlie  | Charlie   | Charlie   | Charlie   | Charlie   | Bob       | Bob       | Alice     | Alice
+Voter 1: 1. Alice 2. Bob 3. Charlie
+Voter 2: 1. Alice 2. Bob. Charlie
+
+Voter 3: 1. Bob 2. Alice 3. Charlie
+Voter 4: 1. Bob 2. Alice 3. Charlie
+Voter 5: 1. Bob 2. Alice 3. Charlie
+
+Voter 6: 1. Charlie 2. Alice 3. Bob
+Voter 7: 1. Charlie 2. Alice 3. Bob
+Voter 8: 1. Charlie 2. Alice 3. Bob
+Voter 9: 1. Charlie 2. Alice 3. Bob
 
 In this scenario of 9 ballots and 3 candidates, Alice appears as a first choice the least times (2) so she is eliminated. Out of the two ballots 
 where Alice was once considered as a first choice, Bob is the second highest preference and takes her place. Now, Bob holds 2 + 3 = 5 votes and Charlie holds 4.
