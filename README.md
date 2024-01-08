@@ -1,7 +1,9 @@
 - A plurality election simply means a voter can vote for one person, and the candidate with the most votes wins the election.
 - A runoff election entails the voter ranking all of the candidates, not just one, with 1 being their top choice. Consider the following 9 ballots:
 
-Ballot      
+Ballot    
+
+   Voter 1    Voter 2     Voter 3     Voter 4     Voter 5     Voter 6     Voter 7     Voter 8     Voter 9
 1. Alice    | Alice     | Bob       | Bob       | Bob       | Charlie   | Charlie   | Charlie   | Charlie
 2. Bob      | Bob       | Alice     | Alice     | Alice     | Alice     | Alice     | Bob       | Bob
 3. Charlie  | Charlie   | Charlie   | Charlie   | Charlie   | Bob       | Bob       | Alice     | Alice
