@@ -4,15 +4,21 @@
 Ballot    
 
 Voter 1: 1. Alice 2. Bob 3. Charlie
+
 Voter 2: 1. Alice 2. Bob. Charlie
 
 Voter 3: 1. Bob 2. Alice 3. Charlie
+
 Voter 4: 1. Bob 2. Alice 3. Charlie
+
 Voter 5: 1. Bob 2. Alice 3. Charlie
 
 Voter 6: 1. Charlie 2. Alice 3. Bob
+
 Voter 7: 1. Charlie 2. Alice 3. Bob
+
 Voter 8: 1. Charlie 2. Alice 3. Bob
+
 Voter 9: 1. Charlie 2. Alice 3. Bob
 
 In this scenario of 9 ballots and 3 candidates, Alice appears as a first choice the least times (2) so she is eliminated. Out of the two ballots 
